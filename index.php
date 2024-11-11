@@ -37,7 +37,7 @@ unset($_SESSION["alertLupaPassJudul"]);
 <body class="p-4">
     <!-- header -->
     <div id="lupaPasswordReminder">
-        <h1 class="display-3" style="font-weight:400;">AbsenSmaga</h1>
+        <h1 class="display-3" style="font-weight:400;">Gamma</h1>
         <h1 class="display-6">Sebelum absen, silahkan login terlebih dahulu.</h1>
     </div>
 
