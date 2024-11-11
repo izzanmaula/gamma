@@ -80,7 +80,7 @@ unset($_SESSION["alertLupaPassJudul"]);
 
     <!-- login box -->
     <div class="">
-    <form method="post" action="login_back.php">
+    <form method="post" action="beranda.php">
     <div class="mb-3">
         <p>Nama Alias Anda</p>
         <div class="input-group">
